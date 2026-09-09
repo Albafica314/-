@@ -1,0 +1,6 @@
+{
+  "name": "城市出租车时空轨迹挖掘与智慧交通可视化系统",
+  "description": "基于SF Cabspotting 1122万GPS点与537辆出租车的四层架构大数据综合实践系统：Spark分布式预处理、MobilityDB时空数据库、KD-Tree手写DBSCAN热点聚类、OD流向分析与三模型目的地预测及交互式可视化大屏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
